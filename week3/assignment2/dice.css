@@ -1,0 +1,22 @@
+.dice {
+    background-color: #dda60f;
+    width: 100%;
+    height: 15em;
+    font-family: tahoma;
+  }
+  
+  .diceFace {
+    display:flex;
+    flex-direction:row;
+  }
+  
+  .diceButton {
+    float: bottom;
+  }
+  
+  .multiple-dice {
+    background-color: #9920b8;
+    height: 45em;
+  }
+  
+  
